@@ -2,8 +2,8 @@
 
 This is one of my favorite classes ever taken at NYU.
 
-The file "main" can be compiled using gmake (under tcsh) \\
-% make clean \\
+The file "main" can be compiled using gmake (under tcsh) \
+% make clean \
 % script
 % make all
 % ^D
