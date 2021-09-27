@@ -7,8 +7,8 @@ The file "main" can be compiled using gmake (under tcsh) \
 % script \
 % make all \
 % ^D \
-% make clean \
+% make clean 
 
-The way I am compiling: \
-1. Open the folder abstract-interpreter in Visual Studio code. \
-2. %make all \
+The way I am compiling: 
+1. Open the folder abstract-interpreter in Visual Studio code. 
+2. %make all 
