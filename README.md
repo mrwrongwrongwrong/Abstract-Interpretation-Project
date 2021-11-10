@@ -1,4 +1,4 @@
-# a6stract-int3rpretati0n-pr0ject
+# abstract-interpretation-project
 
 This is one of my favorite classes ever taken at NYU.
 
